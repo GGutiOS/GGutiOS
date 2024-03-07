@@ -25,3 +25,5 @@ Olá! Sou Guilherme Gutierre, estudante de Analise e Desenvolvimento de sistemas
 <p align="center">
   <img align="center" src="https://profile-counter.glitch.me/GGutiOS/count.svg">
 </p>
+
+![snake gif](https://github.com/GGutiOS/GGutiOS/blob/output/github-contribution-grid-snake.svg)

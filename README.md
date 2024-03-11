@@ -31,7 +31,6 @@ Olá! Sou Guilherme Gutierre, estudante de Analise e Desenvolvimento de sistemas
 ## Minhas Estatísticas do GitHub
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GGutiOS&show_icons=true&theme=radical)](https://github.com/GGutiOS)
-
 [![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GGutiOS&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/GGutiOS)
 
 ## Para Saber Mais Sobre Mim!

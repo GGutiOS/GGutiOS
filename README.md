@@ -1,35 +1,29 @@
 # Bem-vindo(a) ao meu Perfil! 😁
 
-Olá! Sou Guilherme Gutierre, estudante de Analise e Desenvolvimento de sistemas, apaixonado por tecnologia e programação. Este é meu perfil no GitHub, onde compartilho meus projetos, aprendizados e contribuições para a comunidade.
+Olá! Sou Guilherme Gutierre, estudante de Analise e Desenvolvimento de sistemas, apaixonado por tecnologia e programação. Este é meu perfil no GitHub, onde compartilho meus projetos, aprendizados.
 
 ## Sobre Mim
 
 - 🌱 Atualmente estou aprendendo Java, ApiRest, Angular, SpringBoot.
 - 💼 Estou em busca de oportunidades na área de Estagios de programação tanto Front quanto backend.
-- 💬 Pergunte-me sobre qualquer coisa relacionada a tecnologia, ficarei feliz em ajudar.
 
 ## Minhas Habilidades
 
-Aqui estão algumas das ferramentas que sei utilizar:
-
-## Minhas Habilidades
-
-Aqui estão algumas das ferramentas que sei utilizar:
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20"/> - Java <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="20" height="20"/> - HTML <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="20" height="20"/> - CSS <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>- JavaScript <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="20" height="20"/> - Node.js <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="20" height="20"/> - Spring Boot <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android Studio" width="20" height="20"/> - Android Studio <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="20" height="20"/> - Angular <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/> - Docker <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20"/> - PostgreSQL <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="20" height="20"/> - Vue.js <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="20" height="20"/> - Git <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="20" height="20"/> - Unity <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20" height="20"/> - C# <br>
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 
 
@@ -43,8 +37,10 @@ Aqui estão algumas das ferramentas que sei utilizar:
 ## Para Saber Mais Sobre Mim!
 
 - 📫 Como me contatar: [guilherme.go.santos@gmail.com](mailto:guilherme.go.santos@gmail.com)
+- 📱 WhatsApp: [+5562981338498](https://wa.me/5562981338498)
 - 💼 Meu perfil no LinkedIn: [Guilherme Gutierre](https://www.linkedin.com/in/guilherme-gutierre/)
 - 💬 Me encontre no Discord: [Discord](https://discord.gg/ClearTorys#5488)
+
 
 ## Estatísticas de Visualizações do Perfil
 
